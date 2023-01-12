@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="heading_enter_labor_details">Enter labor details</string>
+    <string name="ADD">ADD</string>
+    <string name="enter_labor_rate">enter labor rate</string>
+    <string name="heading_enter_manager_details">Enter manager details</string>
+</resources>

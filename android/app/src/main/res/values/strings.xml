@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Labor</string>
+    <string name="_login">Login</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please sign in to continue.</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_password">Enter Password</string>
+
+    <string name="_registration">Create Account</string>
+    <string name="registration">Register here</string>
+    <string name="enter_full_name">full name</string>
+    <string name="enter_mobile">mobile</string>
+    <string name="enter_address">address</string>
+    <string name="enter_aadhaar">aadhaar</string>
+    <string name="enter_email">email</string>
+    <string name="enter_company">company name</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="city">city</string>
+    <string name="state">state</string>
+    <string name="aadhaar_attachment">upload aadhaar card</string>
+    <string name="already_have_account">Already have account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="heading_enter_labor_details">Enter labor details</string>
+    <string name="ADD">ADD</string>
+    <string name="enter_labor_rate">enter labor rate</string>
+    <string name="heading_enter_manager_details">Enter manager details</string>
+
+</resources>
